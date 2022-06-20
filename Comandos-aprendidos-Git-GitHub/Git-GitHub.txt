@@ -1,0 +1,31 @@
+Git - Git Hub
+
+
+Mudar pasta - cd
+
+Listar Pasta - dir
+
+Criar Pasta -  mkdir
+
+Deletar Pasta - del /rmdir /S /Q
+
+Move pastas  - move
+
+
+
+
+Blob   = guarda apenas o identificador do arquivo
+
+Echo 'facundo'   |git hash-object --stdin
+
+Tree = Objeto recursivo - Apontam caminhos 
+
+Commit = aponta pra uma arvore
+
+- git status verifica os etados do arquivo
+- git init   = criar o repositorio na pasta
+- git add    = 
+- git commit = Salva Naquele momento
+- git push = empura para o servidor remoto
+- git pull = pega do servidor remoto
+- git clone = clone repositorio para seu local
